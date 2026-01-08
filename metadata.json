@@ -1,0 +1,8 @@
+{
+  "name": "SwiftAid AR: Smart First Aid",
+  "description": "Professional-grade AR guidance for immediate first aid support using advanced computer vision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
